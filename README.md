@@ -5,7 +5,7 @@ This project demonstrates state management using **React Context API** and highl
 ## 📖 Related Article
 
 This example is part of the article:
-👉 **[Why React Context API Can't Replace a State Management Library]({medium-link})**
+👉 **[Why React Context API Can't Replace a State Management Library]([{medium-link}](https://medium.com/concept-reply-gmbh/why-react-context-api-cant-replace-a-state-management-library-da056c40c63c))**
 
 ## 🚀 How It Works
 
